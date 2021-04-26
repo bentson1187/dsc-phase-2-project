@@ -32,7 +32,7 @@ This project focuses on utilizing the historic pricing data and home features to
 
 The model analyzes how specific features of a home affect its value and uses this analysis to then determine a "best fit" prediction when trying to take in new home features and produce a new home value. Here is how the model classified each home feature with respect to how it influenced a homes value:
 
-<img src='Images/Model Feature Influence.png'>
+<img src='Images/Model Feature Influence.png' >
 
 The feature which affects a home's value most positively is Total Home Square Feet. The grade of construction is also an important feature to predicting a home's value. The model utilizes the impact of the home features to give insights into rennovation opportunities.
 
