@@ -1,6 +1,6 @@
 <img src='Images/Rennovation README Title.png'>
 
-# Evaluating Home Renovation Opportunities in King County, WA
+# Evaluating Home Renovation Opportunities in King County, WA
 
 # Overview
 
